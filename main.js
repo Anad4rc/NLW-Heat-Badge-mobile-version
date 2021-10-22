@@ -1,10 +1,10 @@
 const linksSocialMedia = {
-  //constante gobal por isso ela ta fora,pode ser chamada em qualquer lugar do codigo]
+  //constante global por isso ela ta fora,pode ser chamada em qualquer lugar do codigo]
   github: 'Anad4rc',
-  youtube: 'Venuz',
-  facebook: 'AnaDarc',
+  youtube: ' ',
+  facebook: ' ',
   instagram: 'anna_d4rc',
-  twitter: 'Venuz'
+  twitter: ' '
 }
 
 function changeSocialMediaLinks() {
